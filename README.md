@@ -1,3 +1,3 @@
 # LavaSprint
 
-My first **Pygame** remade with **Haxe** and **HaxeFlixel**
+My first **Pygame** game remade with **Haxe** and **HaxeFlixel**
